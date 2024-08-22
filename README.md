@@ -1,0 +1,2 @@
+If you somehow came across this project, forgive me for this monstrosity. This is a web scraper that collects every doodle's stats from the wiki of Doodle World, a roblox creature collector game. This was actually going to be the first step for a bigger project, 
+which would be a teambuilder. If I actually go through with it, this file will definitely change, but for now this is all I have to show. 
