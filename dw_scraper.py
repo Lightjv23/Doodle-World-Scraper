@@ -1,15 +1,6 @@
 from urllib.request import Request, urlopen
 from bs4 import BeautifulSoup
-import mysql.connector
 
-#Establishing connection with database
-connection = mysql.connector.connect(
-    host="localhost",
-    user="root",
-    passwd="Da17042005*%",
-    port="3306",
-    database="doodle_world"
-)
 
 #Creating the web scraper function
 def doodle_info():
