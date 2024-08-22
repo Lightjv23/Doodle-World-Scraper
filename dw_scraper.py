@@ -102,4 +102,4 @@ def doodle_info():
     print(f"The fastest doodle in this range is {fastest} with {g_speed} speed\nThe strongest doodle (physically) in this range is {p_strongest} with {g_attack} attack")
 
 doodle_info()
-connection.close()
+
